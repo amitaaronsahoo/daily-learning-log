@@ -1,0 +1,1 @@
+"day 0: I learned how to setup VS code, Git, and clone a repo" 
