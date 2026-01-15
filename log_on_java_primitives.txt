@@ -1,0 +1,40 @@
+"Learned about how java utilizes atleast a few primitives since everything being a class would be unnecessary for simple arithmitic
+	the raw data is
+		Byte
+		short
+		int
+		long
+		float
+		double
+		char
+		Boolean
+
+byte is small and its range is         -128 to 127
+short is bigger and the range is       -32768 to 32767
+int is the DEFAULT, and range is       -2.1 billion to 2.1 billion
+long is the biggest, and its range is  -9.2x10^18 to 9.2x10^18
+
+double is the default for decimal numbers
+float has less decimal places, but can also be used for decimal numbers
+float is faster
+double is standard, slower, and more precise
+when overflow happes, the massive number goes from max value to the max negative value
+
+   -----------------
+  /                   
+ v
+
+|                    | 
+----------------------
+min       0         max
+
+so a max int gets wrapped back around to the max negative number
+
+char must be defined with '' not "" since "" is for strings
+boolean is only defined as true or false
+
+if you want to define a long integer you have to be careful since everything is default an int
+and int values cannot be massive while long values can
+so the int number for a long needs to have an L and the end of the value
+long d = 2147483648L;
+
