@@ -30,3 +30,33 @@
 "git fetch: downloads changes and files to your local repo"
 "git pull fetches and merges changes from remote repos to your current branch"
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"day 2"
+"refreshed on some comcepts like mkdir is used to make a folder also known as a directory"
+"cd ~ is used to go to the home directory or the root directory"
+"cd ..  can be used to go up a file tree, so think of it like going back a file folder"
+"code .   can be used once you are inside your project directory to open up a vs code window easily"
+"explorer .    can be used to open up a finder window at the current location that you are located in"
+""
+""
+"also learned some basic commands for BaSH terminal"
+"-l is a flag to make a command show detailed information"
+"pwd is used to show where you are currently located in"
+"touch is a command used to create and empty text file"
+"touch example.txt    makes an empty txt file with the name example"
+"cp file1.txt file2.txt  copies file1.txt to a new file named file2.txt"
+"mv is used to rename files"
+"mv file1.txt file2.txt"
+"#!/bin/bash command to let system know to use BaSH to interpret the script
+
+echo   print to the terminal
+
+chmod +x scriptname.sh
+makes an executable script
+
+./script.sh
+executes the runnable script"
+"most interesting thing that i learned is that i dont need to use quotation marks for each line"
+"also that the best file date convention is YYYY-MM-DD"
+
+
